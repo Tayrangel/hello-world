@@ -1,0 +1,6 @@
+C:\Users\Tayhana\Desktop\TI\DTO\bin\Debug\DTO.dll
+C:\Users\Tayhana\Desktop\TI\DTO\bin\Debug\DTO.pdb
+C:\Users\Tayhana\Desktop\TI\DTO\obj\Debug\Loja.DTO.csproj.AssemblyReference.cache
+C:\Users\Tayhana\Desktop\TI\DTO\obj\Debug\Loja.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Tayhana\Desktop\TI\DTO\obj\Debug\DTO.dll
+C:\Users\Tayhana\Desktop\TI\DTO\obj\Debug\DTO.pdb

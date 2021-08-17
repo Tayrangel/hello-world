@@ -1,0 +1,13 @@
+C:\Users\Tayhana\Desktop\TI\Helloworld_console\obj\Debug\netcoreapp3.1\Helloworld_console.csproj.AssemblyReference.cache
+C:\Users\Tayhana\Desktop\TI\Helloworld_console\obj\Debug\netcoreapp3.1\Helloworld_console.AssemblyInfoInputs.cache
+C:\Users\Tayhana\Desktop\TI\Helloworld_console\obj\Debug\netcoreapp3.1\Helloworld_console.AssemblyInfo.cs
+C:\Users\Tayhana\Desktop\TI\Helloworld_console\obj\Debug\netcoreapp3.1\Helloworld_console.csproj.CoreCompileInputs.cache
+C:\Users\Tayhana\Desktop\TI\Helloworld_console\bin\Debug\netcoreapp3.1\Helloworld_console.exe
+C:\Users\Tayhana\Desktop\TI\Helloworld_console\bin\Debug\netcoreapp3.1\Helloworld_console.deps.json
+C:\Users\Tayhana\Desktop\TI\Helloworld_console\bin\Debug\netcoreapp3.1\Helloworld_console.runtimeconfig.json
+C:\Users\Tayhana\Desktop\TI\Helloworld_console\bin\Debug\netcoreapp3.1\Helloworld_console.runtimeconfig.dev.json
+C:\Users\Tayhana\Desktop\TI\Helloworld_console\bin\Debug\netcoreapp3.1\Helloworld_console.dll
+C:\Users\Tayhana\Desktop\TI\Helloworld_console\bin\Debug\netcoreapp3.1\Helloworld_console.pdb
+C:\Users\Tayhana\Desktop\TI\Helloworld_console\obj\Debug\netcoreapp3.1\Helloworld_console.dll
+C:\Users\Tayhana\Desktop\TI\Helloworld_console\obj\Debug\netcoreapp3.1\Helloworld_console.pdb
+C:\Users\Tayhana\Desktop\TI\Helloworld_console\obj\Debug\netcoreapp3.1\Helloworld_console.genruntimeconfig.cache

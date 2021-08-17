@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema_Catina", "Sistema_Catina.csproj", "{D10866BE-7A2A-4D42-B3FE-69CCB0E7996C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10866BE-7A2A-4D42-B3FE-69CCB0E7996C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10866BE-7A2A-4D42-B3FE-69CCB0E7996C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10866BE-7A2A-4D42-B3FE-69CCB0E7996C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10866BE-7A2A-4D42-B3FE-69CCB0E7996C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45C814AB-DF68-48E8-9675-17AEBF2B469C}
+	EndGlobalSection
+EndGlobal

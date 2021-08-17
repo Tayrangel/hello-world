@@ -1,0 +1,10 @@
+C:\Users\Tayhana\Desktop\TI\Tratamento_Erros\bin\Debug\Tratamento_Erros.exe.config
+C:\Users\Tayhana\Desktop\TI\Tratamento_Erros\bin\Debug\Tratamento_Erros.exe
+C:\Users\Tayhana\Desktop\TI\Tratamento_Erros\bin\Debug\Tratamento_Erros.pdb
+C:\Users\Tayhana\Desktop\TI\Tratamento_Erros\obj\Debug\Tratamento_Erros.csproj.AssemblyReference.cache
+C:\Users\Tayhana\Desktop\TI\Tratamento_Erros\obj\Debug\Tratamento_Erros.Form1.resources
+C:\Users\Tayhana\Desktop\TI\Tratamento_Erros\obj\Debug\Tratamento_Erros.Properties.Resources.resources
+C:\Users\Tayhana\Desktop\TI\Tratamento_Erros\obj\Debug\Tratamento_Erros.csproj.GenerateResource.cache
+C:\Users\Tayhana\Desktop\TI\Tratamento_Erros\obj\Debug\Tratamento_Erros.csproj.CoreCompileInputs.cache
+C:\Users\Tayhana\Desktop\TI\Tratamento_Erros\obj\Debug\Tratamento_Erros.exe
+C:\Users\Tayhana\Desktop\TI\Tratamento_Erros\obj\Debug\Tratamento_Erros.pdb

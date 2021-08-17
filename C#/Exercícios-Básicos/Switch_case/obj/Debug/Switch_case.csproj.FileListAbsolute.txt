@@ -1,0 +1,11 @@
+C:\Users\Tayhana\Desktop\TI\Switch_case\bin\Debug\Switch_case.exe.config
+C:\Users\Tayhana\Desktop\TI\Switch_case\bin\Debug\Switch_case.exe
+C:\Users\Tayhana\Desktop\TI\Switch_case\bin\Debug\Switch_case.pdb
+C:\Users\Tayhana\Desktop\TI\Switch_case\obj\Debug\Switch_case.csproj.AssemblyReference.cache
+C:\Users\Tayhana\Desktop\TI\Switch_case\obj\Debug\Switch_case.Form1.resources
+C:\Users\Tayhana\Desktop\TI\Switch_case\obj\Debug\Switch_case.Properties.Resources.resources
+C:\Users\Tayhana\Desktop\TI\Switch_case\obj\Debug\Switch_case.csproj.GenerateResource.cache
+C:\Users\Tayhana\Desktop\TI\Switch_case\obj\Debug\Switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Tayhana\Desktop\TI\Switch_case\obj\Debug\Switch_case.exe
+C:\Users\Tayhana\Desktop\TI\Switch_case\obj\Debug\Switch_case.pdb
+C:\Users\Tayhana\Desktop\TI\Switch_case\obj\Debug\Switch_case.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\Tayhana\Desktop\TI\Array_mult\bin\Debug\Array_mult.exe.config
+C:\Users\Tayhana\Desktop\TI\Array_mult\bin\Debug\Array_mult.exe
+C:\Users\Tayhana\Desktop\TI\Array_mult\bin\Debug\Array_mult.pdb
+C:\Users\Tayhana\Desktop\TI\Array_mult\obj\Debug\Array_mult.csproj.AssemblyReference.cache
+C:\Users\Tayhana\Desktop\TI\Array_mult\obj\Debug\Array_mult.Form1.resources
+C:\Users\Tayhana\Desktop\TI\Array_mult\obj\Debug\Array_mult.Properties.Resources.resources
+C:\Users\Tayhana\Desktop\TI\Array_mult\obj\Debug\Array_mult.csproj.GenerateResource.cache
+C:\Users\Tayhana\Desktop\TI\Array_mult\obj\Debug\Array_mult.csproj.CoreCompileInputs.cache
+C:\Users\Tayhana\Desktop\TI\Array_mult\obj\Debug\Array_mult.exe
+C:\Users\Tayhana\Desktop\TI\Array_mult\obj\Debug\Array_mult.pdb

@@ -1,0 +1,10 @@
+C:\Users\Tayhana\Desktop\TI\Helloworldwindows\bin\Debug\Helloworldwindows.exe.config
+C:\Users\Tayhana\Desktop\TI\Helloworldwindows\bin\Debug\Helloworldwindows.exe
+C:\Users\Tayhana\Desktop\TI\Helloworldwindows\bin\Debug\Helloworldwindows.pdb
+C:\Users\Tayhana\Desktop\TI\Helloworldwindows\obj\Debug\Helloworldwindows.csproj.AssemblyReference.cache
+C:\Users\Tayhana\Desktop\TI\Helloworldwindows\obj\Debug\Helloworldwindows.Form1.resources
+C:\Users\Tayhana\Desktop\TI\Helloworldwindows\obj\Debug\Helloworldwindows.Properties.Resources.resources
+C:\Users\Tayhana\Desktop\TI\Helloworldwindows\obj\Debug\Helloworldwindows.csproj.GenerateResource.cache
+C:\Users\Tayhana\Desktop\TI\Helloworldwindows\obj\Debug\Helloworldwindows.csproj.CoreCompileInputs.cache
+C:\Users\Tayhana\Desktop\TI\Helloworldwindows\obj\Debug\Helloworldwindows.exe
+C:\Users\Tayhana\Desktop\TI\Helloworldwindows\obj\Debug\Helloworldwindows.pdb

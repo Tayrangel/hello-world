@@ -1,0 +1,10 @@
+C:\Users\Tayhana\Desktop\TI\Loja.DAL\bin\Debug\Loja.DAL.dll
+C:\Users\Tayhana\Desktop\TI\Loja.DAL\bin\Debug\Loja.DAL.pdb
+C:\Users\Tayhana\Desktop\TI\Loja.DAL\bin\Debug\DTO.dll
+C:\Users\Tayhana\Desktop\TI\Loja.DAL\bin\Debug\DTO.pdb
+C:\Users\Tayhana\Desktop\TI\Loja.DAL\obj\Debug\Loja.DAL.csproj.AssemblyReference.cache
+C:\Users\Tayhana\Desktop\TI\Loja.DAL\obj\Debug\Loja.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tayhana\Desktop\TI\Loja.DAL\obj\Debug\Loja.DAL.csproj.CopyComplete
+C:\Users\Tayhana\Desktop\TI\Loja.DAL\obj\Debug\Loja.DAL.dll
+C:\Users\Tayhana\Desktop\TI\Loja.DAL\obj\Debug\Loja.DAL.pdb
+C:\Users\Tayhana\Desktop\TI\Loja.DAL\bin\Debug\Loja.DAL.dll.config

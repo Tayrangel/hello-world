@@ -1,0 +1,10 @@
+C:\Users\Tayhana\Desktop\TI\Splash_Screen\bin\Debug\Splash_Screen.exe.config
+C:\Users\Tayhana\Desktop\TI\Splash_Screen\bin\Debug\Splash_Screen.exe
+C:\Users\Tayhana\Desktop\TI\Splash_Screen\bin\Debug\Splash_Screen.pdb
+C:\Users\Tayhana\Desktop\TI\Splash_Screen\obj\Debug\Splash_Screen.csproj.AssemblyReference.cache
+C:\Users\Tayhana\Desktop\TI\Splash_Screen\obj\Debug\Splash_Screen.AboutBox1.resources
+C:\Users\Tayhana\Desktop\TI\Splash_Screen\obj\Debug\Splash_Screen.Properties.Resources.resources
+C:\Users\Tayhana\Desktop\TI\Splash_Screen\obj\Debug\Splash_Screen.csproj.GenerateResource.cache
+C:\Users\Tayhana\Desktop\TI\Splash_Screen\obj\Debug\Splash_Screen.csproj.CoreCompileInputs.cache
+C:\Users\Tayhana\Desktop\TI\Splash_Screen\obj\Debug\Splash_Screen.exe
+C:\Users\Tayhana\Desktop\TI\Splash_Screen\obj\Debug\Splash_Screen.pdb

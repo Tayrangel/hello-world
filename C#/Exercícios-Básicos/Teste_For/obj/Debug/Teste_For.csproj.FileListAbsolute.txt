@@ -1,0 +1,10 @@
+C:\Users\Tayhana\Desktop\TI\Teste_For\obj\Debug\Teste_For.csproj.AssemblyReference.cache
+C:\Users\Tayhana\Desktop\TI\Teste_For\obj\Debug\Teste_For.Form1.resources
+C:\Users\Tayhana\Desktop\TI\Teste_For\obj\Debug\Teste_For.Properties.Resources.resources
+C:\Users\Tayhana\Desktop\TI\Teste_For\obj\Debug\Teste_For.csproj.GenerateResource.cache
+C:\Users\Tayhana\Desktop\TI\Teste_For\obj\Debug\Teste_For.csproj.CoreCompileInputs.cache
+C:\Users\Tayhana\Desktop\TI\Teste_For\bin\Debug\Teste_For.exe.config
+C:\Users\Tayhana\Desktop\TI\Teste_For\bin\Debug\Teste_For.exe
+C:\Users\Tayhana\Desktop\TI\Teste_For\bin\Debug\Teste_For.pdb
+C:\Users\Tayhana\Desktop\TI\Teste_For\obj\Debug\Teste_For.exe
+C:\Users\Tayhana\Desktop\TI\Teste_For\obj\Debug\Teste_For.pdb

@@ -1,0 +1,10 @@
+C:\Users\Tayhana\Desktop\TI\Conceito_While\bin\Debug\Conceito_While.exe.config
+C:\Users\Tayhana\Desktop\TI\Conceito_While\bin\Debug\Conceito_While.exe
+C:\Users\Tayhana\Desktop\TI\Conceito_While\bin\Debug\Conceito_While.pdb
+C:\Users\Tayhana\Desktop\TI\Conceito_While\obj\Debug\Conceito_While.csproj.AssemblyReference.cache
+C:\Users\Tayhana\Desktop\TI\Conceito_While\obj\Debug\Conceito_While.Form1.resources
+C:\Users\Tayhana\Desktop\TI\Conceito_While\obj\Debug\Conceito_While.Properties.Resources.resources
+C:\Users\Tayhana\Desktop\TI\Conceito_While\obj\Debug\Conceito_While.csproj.GenerateResource.cache
+C:\Users\Tayhana\Desktop\TI\Conceito_While\obj\Debug\Conceito_While.csproj.CoreCompileInputs.cache
+C:\Users\Tayhana\Desktop\TI\Conceito_While\obj\Debug\Conceito_While.exe
+C:\Users\Tayhana\Desktop\TI\Conceito_While\obj\Debug\Conceito_While.pdb

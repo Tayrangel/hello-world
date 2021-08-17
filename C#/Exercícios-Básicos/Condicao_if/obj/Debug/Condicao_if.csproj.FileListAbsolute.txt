@@ -1,0 +1,10 @@
+C:\Users\Tayhana\Desktop\TI\Condicao_if\bin\Debug\Condicao_if.exe.config
+C:\Users\Tayhana\Desktop\TI\Condicao_if\bin\Debug\Condicao_if.exe
+C:\Users\Tayhana\Desktop\TI\Condicao_if\bin\Debug\Condicao_if.pdb
+C:\Users\Tayhana\Desktop\TI\Condicao_if\obj\Debug\Condicao_if.csproj.AssemblyReference.cache
+C:\Users\Tayhana\Desktop\TI\Condicao_if\obj\Debug\Condicao_if.Form1.resources
+C:\Users\Tayhana\Desktop\TI\Condicao_if\obj\Debug\Condicao_if.Properties.Resources.resources
+C:\Users\Tayhana\Desktop\TI\Condicao_if\obj\Debug\Condicao_if.csproj.GenerateResource.cache
+C:\Users\Tayhana\Desktop\TI\Condicao_if\obj\Debug\Condicao_if.csproj.CoreCompileInputs.cache
+C:\Users\Tayhana\Desktop\TI\Condicao_if\obj\Debug\Condicao_if.exe
+C:\Users\Tayhana\Desktop\TI\Condicao_if\obj\Debug\Condicao_if.pdb

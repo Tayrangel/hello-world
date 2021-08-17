@@ -1,0 +1,11 @@
+C:\Users\Tayhana\Desktop\TI\Exemplo_While_For\bin\Debug\Exemplo_While_For.exe.config
+C:\Users\Tayhana\Desktop\TI\Exemplo_While_For\bin\Debug\Exemplo_While_For.exe
+C:\Users\Tayhana\Desktop\TI\Exemplo_While_For\bin\Debug\Exemplo_While_For.pdb
+C:\Users\Tayhana\Desktop\TI\Exemplo_While_For\obj\Debug\Exemplo_While_For.csproj.AssemblyReference.cache
+C:\Users\Tayhana\Desktop\TI\Exemplo_While_For\obj\Debug\Exemplo_While_For.Form1.resources
+C:\Users\Tayhana\Desktop\TI\Exemplo_While_For\obj\Debug\Exemplo_While_For.Form2.resources
+C:\Users\Tayhana\Desktop\TI\Exemplo_While_For\obj\Debug\Exemplo_While_For.Properties.Resources.resources
+C:\Users\Tayhana\Desktop\TI\Exemplo_While_For\obj\Debug\Exemplo_While_For.csproj.GenerateResource.cache
+C:\Users\Tayhana\Desktop\TI\Exemplo_While_For\obj\Debug\Exemplo_While_For.csproj.CoreCompileInputs.cache
+C:\Users\Tayhana\Desktop\TI\Exemplo_While_For\obj\Debug\Exemplo_While_For.exe
+C:\Users\Tayhana\Desktop\TI\Exemplo_While_For\obj\Debug\Exemplo_While_For.pdb

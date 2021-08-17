@@ -1,0 +1,10 @@
+C:\Users\Tayhana\Desktop\TI\Caculos_basicos\bin\Debug\Caculos_basicos.exe.config
+C:\Users\Tayhana\Desktop\TI\Caculos_basicos\bin\Debug\Caculos_basicos.exe
+C:\Users\Tayhana\Desktop\TI\Caculos_basicos\bin\Debug\Caculos_basicos.pdb
+C:\Users\Tayhana\Desktop\TI\Caculos_basicos\obj\Debug\Caculos_basicos.csproj.AssemblyReference.cache
+C:\Users\Tayhana\Desktop\TI\Caculos_basicos\obj\Debug\Caculos_basicos.Form1.resources
+C:\Users\Tayhana\Desktop\TI\Caculos_basicos\obj\Debug\Caculos_basicos.Properties.Resources.resources
+C:\Users\Tayhana\Desktop\TI\Caculos_basicos\obj\Debug\Caculos_basicos.csproj.GenerateResource.cache
+C:\Users\Tayhana\Desktop\TI\Caculos_basicos\obj\Debug\Caculos_basicos.csproj.CoreCompileInputs.cache
+C:\Users\Tayhana\Desktop\TI\Caculos_basicos\obj\Debug\Caculos_basicos.exe
+C:\Users\Tayhana\Desktop\TI\Caculos_basicos\obj\Debug\Caculos_basicos.pdb
