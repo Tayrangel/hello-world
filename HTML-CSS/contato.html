@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+	<meta charset="UTF-8">
+	<title>Contato</title>
+	<link rel="stylesheet" type="text/css" href="css/folhadeestilo.css">
+</head>
+
+<body class="color-page">
+	<div class="container-principal" id="topo">
+		<!criação do menu, localizado no topo do site>
+		<header>
+			<!criação do campo para o logo>
+			<div class="logo">
+				<!adicionar a imagem com link para a home do site>
+				<a href="index.html">
+					<img src="imagem/logo_taylu_transparência.png" alt="logo site">
+				</a>				
+			</div>
+				<!usar a tag nav para criar o menu de navegação, que concentra os links, para formação da navegação do site>
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="sobre.html">Sobre</a></li>
+						<li><a href="conteudo.html">Conteúdo</a></li>
+						<li><a href="#topo.html">Contato</a></li>
+					</ul>
+				</nav>
+		</header>
+
+		<div class="img-titulo"><img src="imagem/contato.png" alt="Imagem de contato"></div>
+
+		<section id="txt-contato">
+			<form name="meu_form" id="meu_form">
+				<p class="nome">
+					<label for="nome">Nome:</label><br>
+					<input type="text" id="nomeid" placeholder="Ex: Nome Completo" required="required" name="nome"/>
+				</p>
+				<p class="fone">
+					<label for="fone">Fone:</label><br>
+					<input type="fone" id="foneid" placeholder="(xx)xxxx-xxxx" name="fone"/>
+				</p>
+				<p>
+					<label for="email">Email:</label><br>
+					<input type="email" id="emailid" placeholder="email@email.com" required="required" name="email">
+				</p>
+				<p>
+					<textarea placeholder="Mensagem" required="required"></textarea>
+				</p>
+				<button type="submit" form="meu_form">Enviar</button>
+			</form>
+
+			<div id="conta-data">
+				<h4>Taylu Saboaria e Cosméticos</h4>
+				<h5><img src="imagem\endereço.png" alt="endereço"><br>Avenida XXXX XXXX XXXX nº2021</h5>
+				<h5><img src="imagem\telefone.png" alt="telefone"><br>+55 17 9999-9999</h5>
+				<h5><img src="imagem\email.png" alt="email"><br>cosmeticostaylu@gmail.com</h5>
+				<h5><img src="imagem\facebook.png" alt="facebook"><br>facebook.com/taylu</h5>
+				<h5><img src="imagem\instagram.png" alt="instagram"><br>instagram.com/_taylu</h5>
+			</div>
+		</section>
+	</div>
+</body>
+</html>

@@ -1,0 +1,127 @@
+*{margin: 0; padding: 0;}  /*inicia todos os elementos com o margin e padding 0 */
+
+.container-principal{font-family: "Century Gothic"; color: #777;}
+
+/*definir as propriedades do topo (cabeçalho)*/
+header{width: 100%; height: 130px; background-color: #fff; position: relative; top: 0;}
+
+/*definir as propriedades do logo*/
+.logo{position: absolute; width: 150px; height: auto;}
+.logo img {width: 90%; margin-left: 10%;}
+
+/*definir as propriedades do menu*/
+nav {position: absolute; right: 30px; bottom: 0px;}
+nav ul li {float: left; color: #fff; width: auto; margin: 0.8em; font-size: 1em; font-family: "Century Gothic"; list-style: none;}
+nav ul li a {text-decoration: none; color: #4b1913;}
+nav ul li a:hover {color: #b13030;}
+
+/*definir as propriedades da imagem principal*/
+#banner{width: 100%;}
+#banner img {width: 100%; margin-bottom: 0;}
+
+/*definir as propriedades dos pop-ups*/
+.modalDialog {
+position: fixed;
+font-family: "Century Gothic";
+font-size: 14px;
+text-align: justify;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+background: rgba(170, 111, 115, 1);
+z-index: 9999;
+opacity: 0;
+-webkit-transition:  opacity 400ms ease-in;
+-moz-transition:  opacity 400ms ease-in;
+transition: opacity 400ms ease-in;
+pointer-events: none;
+display: none;
+}
+
+.modalDialog:target{
+display: block;
+opacity: 1;
+pointer-events: auto;
+}
+
+.modalDialog div {
+width: 500px;
+position: relative;
+margin: 10% auto;
+padding: 5px 20px 13px 20px;
+-webkit-border-radius:  12px;
+-moz-border-radius: 12px;
+border-radius: 10px;
+background-color: #fff;
+}
+
+.modalDialog p {
+margin-top: 5%;
+margin-bottom: 5%;
+}
+
+.modalDialog img {
+width: 50%;
+position: relative;
+margin-left: 25%;
+}
+
+.close {
+background-color: #ece5dd;
+color: #FFFFFFF;
+line-height: 25px;
+position: absolute;
+right: -12px;
+text-align: center;
+top: -10px;
+width: 24px;
+text-decoration: none;
+font-weight: bold;
+-webkit-border-radius: 12px;
+-moz-border-radius: 12px;
+border-radius: 12px;
+}
+
+.close:hover {
+background-color: #4b1913;
+}
+
+/*definição da cor do fundo das páginas sobre, clientes e contato*/
+.color-page {background-color: #ece5dd;}
+
+/*definir as propriedades das imagens de titulo*/
+.img-titulo {width: 20%; height: auto; margin-bottom: 10px; position: relative; float: left; margin-right: 5%}
+.img-titulo img {width: 90%; margin-left: 10%; margin-top: 50px;}
+
+/*definir as propriedades da página sobre*/
+#container-sobre {width: 75%; position: relative; float: left;}
+#container-sobre #txt-sobre {width: 75%; margin-left: 1.5%; padding: 1%; float: left; margin-top: 30px; background-color: #fff;}
+#container-sobre #txt-sobre p {width: 90%; margin-left: 5%; margin-bottom: 20px; font-size: 14px; text-align: justify;}
+#container-sobre #txt-sobre dl {width: 50%; margin-left: 10%; font-size: 14px;}
+
+/*definir as propriedades da página conteudo*/
+#conteudo-taylu {width: 75%; position: relative; float: left;}
+#conteudo-taylu .config-conteudo {width: 40%; margin-left: 1.5%; padding: 1%; float: left; margin-top: 30px; background-color: #fff;}
+#conteudo-taylu .config-conteudo img {width: 60%; margin-left: 20%; margin-bottom: 20px;}
+#conteudo-taylu .config-conteudo h3 {color: #4b1913;}
+#conteudo-taylu .config-conteudo p {width: 90%; margin-left: 5%; font-size: 14px; text-align: justify; margin-bottom: 20px;}
+#conteudo-taylu .config-conteudo p a {color: #aa6f73; font-size: 10px;}
+
+/*definir as propriedades da página contato*/
+#txt-contato {width: 100%; height: 100%;}
+#txt-contato form {width: 38%; position: relative; float: left; background-color: #fff; padding: 2%; top: 5%; min-height: 400px;}
+#txt-contato form label {font-weight: bold;}
+#txt-contato form input {max-width: 100%; width: 99%; height: 30px; margin-top: 10px; margin-bottom: 15px; border: solid #4b1913 1px; padding-left: 1%;}
+#txt-contato form textarea {max-width: 100%; width: 99%; border: solid #4b1913 1px; padding-left: 1%; min-height: 100px;}
+#txt-contato form button {width: 30%; height: auto; cursor: pointer; background-color: #4b1913; color: #fff; font-size: 1.5em; padding: 15px 0 15px 0; margin-left: 35%; margin-top: 1%;}
+#txt-contato #conta-data {width: 26%; position: relative; float: left; padding: 2%; background-color: #aa6f73; color: #fff; top: 5%; margin-left: 1.5%; height: 400px; text-align: center;}
+#txt-contato #conta-data h3{color: #fff; text-align: center;}
+#txt-contato #conta-data h5 {margin-top: 6%; margin-bottom: 4%; vertical-align: middle;}
+#txt-contato #conta-data h5 img {width: 30px;}
+
+/*definições do rodapé da página inicial*/
+footer {width: 100%; height: 18%; background-color: #4b1913; position: relative; float: left; font-family: "Century Gothic"; font-size: 14px; display: flex; flex-direction: column; justify-content: space-between; align-items: center; text-align: center;}
+footer .footer-text {width: 30%; margin: 0.5%; position: relative; float: left;}
+footer .footer-text a {color: #ece5dd;} 
+footer .footer-text a:hover {color: #aa6f73;}
