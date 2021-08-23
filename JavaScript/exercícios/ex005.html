@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 005</title>
+
+    <style>
+        body{
+            background-color: black;
+            color: cadetblue;
+            font: normal 16pt Arial;
+        }
+    </style>
+</head>
+<body>
+    <h3>Primeiros estudos com DOM</h3>
+    <p>Resultado do estudo DOM</p>
+    <p>Aprendendo a usar <strong>DOM</strong> em JavaScript</p>
+    <div id="mensagem">Clique em mim</div>
+
+    <script>
+        var p1 = window.document.getElementsByTagName('p')[0]
+        window.document.write(p1.innerText)
+        p1.style.color = 'blue'
+
+        var mensagem = window.document.getElementById('mensagem')
+        mensagem.style.background = 'red'
+
+    </script>
+</body>
+</html>
