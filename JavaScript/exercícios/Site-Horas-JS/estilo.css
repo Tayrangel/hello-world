@@ -1,0 +1,25 @@
+body {
+    background: brown;
+    font: normal 18pt Century Gothic;
+}
+
+header {
+    color: burlywood;
+    text-align: center;
+}
+
+section {
+    background: burlywood;
+    color: sienna;
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgb(201, 162, 112);
+}
+
+footer {
+    color: burlywood;
+    text-align: center;
+    font-style: italic;
+}
