@@ -11,13 +11,16 @@ function contar() {
         let ini = Number(inicio.value)
         let fi = Number(fim.value)
         let pa = Number(passo.value)
+        if (pa <= 0) {
+            window.alert('Passo inválido! Considerando o valor do Passo = 1')
+            pa = 1
+        }
 
-        if (ini < fi) {
-
+        if (ini < fi) { //contagem crescente
         for(let c = ini; c <= fi; c += pa) {
             res.innerHTML += `${c} \u{1F449}`
         }
-    } else { 
+    } else { //contagem decrescente 
         for(let c = ini; c >= fi; c -= pa) {
             res.innerHTML += `${c} \u{1F449}`
         }

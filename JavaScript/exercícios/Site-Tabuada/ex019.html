@@ -7,17 +7,22 @@
     <title>Site Tabuada</title>
     <link rel="stylesheet" href="estilo.css">
 </head>
-<body onload="carregar()">
+<body>
     <header>
-        <h3>Hora do dia</h3>
+        <h3>Tabuada</h3>
     </header>
 
     <section>
-        <div id="msg">
-            Teste
+        <div>
+            <p>
+            Número: <input type="number" name="number" id="txtn"> 
+            <input type="button" value="Calcular" onclick="calcular()">
+            </p>
         </div>
-        <div id="foto">
-            <img id="imagem" src="imagens/manha.png" alt="foto do dia">
+        <div>
+            <select name="tabuada" id="seltab" size="10">
+                <option>Digite um número acima</option>
+            </select>
         </div>
     </section>
 
