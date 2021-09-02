@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 007</title>
+
+    <style>
+        body {
+            background: darkslategrey;
+            color: bisque;
+            font: normal 16pt Verdana;
+        }
+
+        div#sistema {
+            background: bisque;
+            color: darkslategrey;
+            width: 800px;
+            height: 200px;
+            line-height: 200px;
+            text-align: center;
+        }
+        
+        div#resultado {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+   <h3>Sistema de multas</h3>
+
+   <div id="sistema">
+   Velocidade do carro: <input type="number" name="txtvel" id="txtvel"> Km/h
+   <input type="button" value="Verificar" onclick="calcular()">
+   </div>
+   <div id="resultado"></div>
+
+   <script>
+      
+      function calcular() {
+        var txtv = window.document.getElementById('txtvel')
+        var resultado = window.document.querySelector('div#resultado')
+        var vel = Number(txtv.value)
+        resultado.innerHTML = `Sua velocidade atual é de ${vel}Km/h`
+        
+        if (vel > 60) {
+          resultado.innerHTML += '<p>Você foi <strong>MULTADO</strong> por excesso de velocidade</p>'
+        }
+      }
+   </script>
+</body>
+</html>
