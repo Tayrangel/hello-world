@@ -13,12 +13,16 @@ import Pai from './components/Pai'
 import Super from './components/Super'
 import Input from './components/Input'
 import Contador from './Contador/Contador'
+import Mega from './Mega/Mega'
 
 export default (props) => (
     <div className="App">
         <h1>Fundamentos React</h1>
 
         <div className="Cards">
+            <Card titulo="#11 - Mega" color="#32aabe">
+                <Mega qtdeNumero={8}/>
+            </Card>
             <Card titulo="#10 - Contador" color="#32aabe">
                 <Contador passo={10} valor={20}/>
             </Card>
