@@ -1,0 +1,15 @@
+.linha {
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-around;
+}
+
+.App {
+  margin: auto;
+  max-width: 900px;
+}
+
+h1 {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
