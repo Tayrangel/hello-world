@@ -13,5 +13,3 @@ Cronograma de estudos:
 - [x] Agosto/2021 Curso de Git e Github ![Tay-Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Tay-Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - [x] Agosto/2021 Linguagem de programação JavaScript - básico ![Tay-JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 - [x] Agosto/2021 React ![Tay-React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- [ ] Setembro/2021 Linguagem de programação JavaScript - avançado ![Tay-JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-- [ ] Setembro/2021 Criando um site com React ![Tay-React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
